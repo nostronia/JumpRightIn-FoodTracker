@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "a3b4ac320823defa06650b8cd4401a3e"
+build_time: [548723866, 211780000]
+inputs:
+  "/PROGRAMS/FoodTracker/FoodTrackerTests/FoodTrackerTests.swift": [548723783, 0]

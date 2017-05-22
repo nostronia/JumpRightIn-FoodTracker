@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "ef89ff0ed31cfa807e37efa02a7a58bc"
+build_time: [548742723, 129387000]
+inputs:
+  "/PROGRAMS/FoodTracker/FoodTracker/Meal.swift": [548739821, 0]
+  "/PROGRAMS/FoodTracker/FoodTracker/MealViewController.swift": [548739311, 0]
+  "/PROGRAMS/FoodTracker/FoodTracker/RatingControl.swift": [548358892, 0]
+  "/PROGRAMS/FoodTracker/FoodTracker/AppDelegate.swift": [548349225, 0]
+  "/PROGRAMS/FoodTracker/FoodTracker/MealTableViewController.swift": [548740268, 0]
+  "/PROGRAMS/FoodTracker/FoodTracker/MealTableViewCell.swift": [548730776, 0]
